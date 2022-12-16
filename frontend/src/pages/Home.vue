@@ -54,7 +54,7 @@
 
                 <div class="grid col-md-4">
                     <img src="../assets/images/dis-2.webp" alt="">
-                    <div class="content center">
+                    <div class="content left">
                         <span>special offer</span>
                         <h3>upto 25% extra</h3>
                         <router-link @click="scrollToTop()" to="/menu" class="btn">order now</router-link>

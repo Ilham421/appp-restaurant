@@ -423,7 +423,7 @@ export default {
 
     .promotions .promotions-item .description p {
         font-size: 12px;
-        color: white;
+        color: black;
         font-weight: 500;
     }
 
