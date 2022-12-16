@@ -7,7 +7,7 @@
 
         <div class="row">
             <div class="about-content">
-                <img src="../assets/images/taco-chefcartoon.png" alt="">
+                <img src="../assets/images/chef-cartoon.webp" alt="">
                 <div class="about-content-text">
                     <p>McDonald’s merupakan restoran fast food terbesar di dunia yang diawali pada tahun 1955 di California, Amerika Serikat. Dengan produk unggulan berupa Burger bernama Bigmac, McDonald’s hingga saat ini telah memiliki ribuan restoran yang tersebar di lebih dari 100 negara, salah satunya Indonesia.</p>
                     <p>McDonald’s pertama kali masuk ke Indonesia pada tahun 1991 dengan membuka restoran pertamanya di Sarinah, Thamrin.Pada tahun 2009 PT. Rekso Nasional Food (RNF) yang merupakan salah satu anak perusahaan dari Rekso Group menandatangani Master Franchise Agreement dengan McDonald’s International Property Company (MIPCO) yang memberikan izin untuk mengoperasikan semua restoran dengan brand McDonald’s dan membuka restoran baru di seluruh Indonesia. Hingga saat ini PT.RNF telah membuka sekiranya lebih dari 200 gerai McDonald’s tersebar di berbagai kota di Indonesia yang didukung dengan lebih dari 14.000 karyawan di seluruh Indonesia. PT. RNF melalui McDonald’s Indonesia selalu berkomitmen penuh menyuguhkan pelayanan yang terbaik bagi pelanggan, menghadirkan kualitas makanan terdepan, serta memberikan manfaat yang besar bagi masyarakat Indonesia.</p>

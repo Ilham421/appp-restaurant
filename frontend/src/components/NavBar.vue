@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        <router-link @click="scrollToTop()" to="/" class="logo"><img src="../assets/images/taco-logo.png" alt="" />FastFood
+        <router-link @click="scrollToTop()" to="/" class="logo"><img src="../assets/images/logo.png" alt="" />FastFood
         </router-link>
 
         <nav class="navbar">
