@@ -700,6 +700,7 @@ hr {
     }
 
     .filter-drop-down {
+        padding-left: 10px;
         display: block;
         background-color: #27ae60;
         color: white;
